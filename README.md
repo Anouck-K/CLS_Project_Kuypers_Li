@@ -1,1 +1,1 @@
-This repository contains the notebook and accompanying data for the research project "title" by Anouck Kuypers and Xinran Li (2025).
+This repository contains the notebook and accompanying data for the research project "Emotional Patterns in Horror Literature: A Sentiment Analysis Across Time and Text Lengths" by Anouck Kuypers and Xinran Li (2025).
